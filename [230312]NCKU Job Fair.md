@@ -8,7 +8,7 @@
 於是抓緊時間去了解相關訊息，
 主要我找了三個攤位，分別是realtech, novatech and tsmc
 
-### realttech
+## 2Realtech
 * 開門見山我就直接問，南科辦公室的相關職缺，目前有18人，
 一位同仁是看似眼熟，然後繼續聊，他跟我說如果要面，
 
@@ -19,7 +19,7 @@
 * Wifi Releated Knowledge
 * No 上機考
 
-### Nova
+## 3.Nova
 
 * 同仁提到，如果我想pursure DV or SA，she thinks SA 比較接近我目前的background，但很操，
 若是要選前者DV，目前是在新竹有總部，上班會在新竹歷練2-3年，
@@ -36,7 +36,7 @@
 * Skill Set
 
 
-### TSMC
+## 4.TSMC
 * Preparation: HackerRank + Enghlish 
 * Description: assist equip engineer to process the issue
 
